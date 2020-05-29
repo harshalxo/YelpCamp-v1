@@ -27,7 +27,7 @@ app.use(methodOverride("_method"));
 app.use(flash());
 
 // PASSPORT CONFIGURATION
-app.use(require("cookie-session")({
+app.use(require("express-session")({
 	secret: "Let's get fucking rich",
 	resave: false,
 	saveUninitialized: false
