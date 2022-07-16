@@ -1,4 +1,4 @@
-#YelpCamp
+#YelpCamp - A Yelp clone for camping grounds
 
 ##Initial Setup
 * Add Landing Page
